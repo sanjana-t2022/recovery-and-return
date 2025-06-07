@@ -28,20 +28,35 @@ Users can report lost/found items, and admins can review, track, and manage the 
 ## 📁 Folder Structure
 
 lostandfount-system/
+
 ├── admin_dashboard.php
+
 ├── dashboard.php
+
 ├── db.php
+
 ├── login.php
+
 ├── logout.php
+
 ├── report_item.php
+
 ├── signup.php
+
 ├── view_items.php
+
 ├── css/
+
 │ ├── style.css
+
 │ └── style.php
+
 ├── db/
+
 │ └── lost_and_found.sql
+
 ├── uploads/
+
 │ └── [uploaded item images]
 
 
